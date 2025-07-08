@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7azemmm&label=Profile%20views&color=0e75b6&style=flat" alt="7azemmm" /> </p>
 
-- 🌱 I’m currently learning **MERN , .NET , problem solving.**
+- 🌱 I’m currently learning **MERN , .NET Core , problem solving.**
 
-- 💬 Ask me about **.NET , MERN .**
+- 💬 Ask me about **.NET Core , MERN .**
 
 - 📫 How to reach me **hazem.mozakaria2002@gmail.com**
 
