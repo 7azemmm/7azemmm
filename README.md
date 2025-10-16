@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazem Mohamed</h1>
-<h3 align="center">A passionate software engineer with a strong curiosity for backend development and DevOps.</h3>
+<h3 align="center">A passionate software engineer with a strong curiosity for DevOps and backend development .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7azemmm&label=Profile%20views&color=0e75b6&style=flat" alt="7azemmm" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes (CKA)**
+- 🌱 I’m currently learning **Kubernetes (CKA)** , **Prometheus and Grafana**
 
 - 💬 Ask me about **Backend , Devops**
 
